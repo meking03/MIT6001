@@ -379,12 +379,4 @@ Created on Sun May  3 13:24:34 2020
 ### Lesson 11 : Understanding Program Efficiency, Part 2
 
 ### Lesson 12 : Searching and Sorting Algorithms
-
-
-
-
-
-
-              
-            
-            
+# dummy comment
